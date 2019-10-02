@@ -4,7 +4,7 @@ A new Flutter project to reproduce the steps for the style error in _web release
 
 ## Important Note
 
-When you create a new flutter project and build for the really first time a flutter web release build, the Increment Demo works withour any problems and no blank screens appear with the "property style == null" error.
+When you create a new flutter project and build for the really first time a flutter web release build, the Increment Demo works without any problems and no blank screens appear with the "property style == null" error.
 
 ### But!
 
@@ -12,8 +12,8 @@ When you put any files in web/ folder, build every next time a release build you
 
 I tried following steps:
 
-1. ```flutter clean````
-2. ```flutter create .````
+1. ```flutter clean```
+2. ```flutter create .```
 3. ```flutter build web --release```
 
 no changes.

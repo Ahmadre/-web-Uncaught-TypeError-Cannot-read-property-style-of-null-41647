@@ -1,0 +1,264 @@
+{
+    "type": "SRI",
+    "language": "tr",
+    "texts": [
+        {
+            "textID": "COVER_LOGO_HEADER",
+            "text": "Severe Respiratory Insufficiency Questionnaire"
+        },
+        {
+            "textID": "COVER_LOGO_TITLE",
+            "text": "SRI"
+        },
+        {
+            "textID": "COVER_LOGO_SUBTITLE",
+            "text": "Ağır Solunum Yetersizliği Durumunda Hasta Anketi"
+        },
+        {
+            "textID": "COVER_ADDRESS",
+            "text": "Sevgili hasta"
+        },
+        {
+            "textID": "COVER_INTRODUCTION",
+            "text": "Solunum rahatsızlığınız için tedavi altındasınız. Mevcut durumunuzu değerlendirmek için sizden bu anketi cevaplamanızı rica ediyoruz. Lütfen her bir soruyu doğru cevabı sadece bir çarpı ile işaretleyerek cevaplayınız. Cevap elbette isteğe bağlıdır. Tüm veriler tıbbi gizliliğe tabidir ve en katı gizlilikle ele alınır. Başka sorunuz varsa, lütfen koç doktorunuza başvurun."
+        },
+        {
+            "textID": "COVER_CODE_LABEL",
+            "text": "Kod numarası"
+        },
+        {
+            "textID": "COPYRIGHT",
+            "text": "© W. Windisch, Üniversite Hastanesi Freiburg, Almanya"
+        },
+        {
+            "textID": "TABLE_INTRODUCTION",
+            "text": "Aşağıdaki sizin genel durumunuzla ilgilidir. Günlük yaşamın çeşitli yönleriyle ilgili açıklamalar bulacaksınız."
+        },
+        {
+            "textID": "SURVEY_HEADER_INTRODUCTION",
+            "text": "Geçen hafta nasıl hissettiniz? Lütfen kişisel olarak size en uygun cevabı HER deyimi ile işaretleyin."
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOWEST",
+            "text": "geçerli değil"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOW",
+            "text": "doğru değil"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_MID",
+            "text": "kısmen doğru"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGH",
+            "text": "hemen hemen doğru"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGHEST",
+            "text": "tamamen doğru"
+        },
+        {
+            "textID": "SURVEY_THANK_YOU",
+            "text": "Teşekkür ederim"
+        }
+    ],
+    "questions": [
+        {
+            "questionID": "Q1",
+            "text": "Merdiven çıkmak bana zor geliyor"
+        },
+        {
+            "questionID": "Q2",
+            "text": "Yemek yerken nefesim daralıyor"
+        },
+        {
+            "questionID": "Q3",
+            "text": "Akşamları dışarıya çıkabiliyorum"
+        },
+        {
+            "questionID": "Q4",
+            "text": "Kendimi çoğunlukla kötü hissediyorum"
+        },
+        {
+            "questionID": "Q5",
+            "text": "Fiziksel zorlanma olmadığında da nefessiz kalıyorum"
+        },
+        {
+            "questionID": "Q6",
+            "text": "Çok sık baş ağrım oluyor"
+        },
+        {
+            "questionID": "Q7",
+            "text": "Çok sayıda arkadaşım ve tanıdığım var"
+        },
+        {
+            "questionID": "Q8",
+            "text": "Hastalığımın kötüleşebileceğine dair endişem var"
+        },
+        {
+            "questionID": "Q9",
+            "text": "Uykuya kolaylıkla dalabilirim"
+        },
+        {
+            "questionID": "Q10",
+            "text": "Kolaylıkla diğer insanlarla ilgilenebilirim"
+        },
+        {
+            "questionID": "Q11",
+            "text": "Bazen başım dönüyor"
+        },
+        {
+            "questionID": "Q12",
+            "text": "Geceleri solunum sıkıntısı ile uyanıyorum"
+        },
+        {
+            "questionID": "Q13",
+            "text": "Gece nefes darlığım olacak diye korkuyorum"
+        },
+        {
+            "questionID": "Q14",
+            "text": "Çok sık boyun ağrım var"
+        },
+        {
+            "questionID": "Q15",
+            "text": "Çoğunlukla evden çıkamıyorum"
+        },
+        {
+            "questionID": "Q16",
+            "text": "Ev işleri bana zor geliyor"
+        },
+        {
+            "questionID": "Q17",
+            "text": "Geceleri sıklıkla uyanıyorum"
+        },
+        {
+            "questionID": "Q18",
+            "text": "Tüm gece kesintisiz uyuyabilirim"
+        },
+        {
+            "questionID": "Q19",
+            "text": "Çoğunlukla nefesim daralıyor"
+        },
+        {
+            "questionID": "Q20",
+            "text": "Gelecek hakkında iyimser düşünüyorum"
+        },
+        {
+            "questionID": "Q21",
+            "text": "Yalnız olduğumu hissediyorum"
+        },
+        {
+            "questionID": "Q22",
+            "text": "Konuşurken nefes darlığı çekiyorum"
+        },
+        {
+            "questionID": "Q23",
+            "text": "Misafirler beni yoruyor"
+        },
+        {
+            "questionID": "Q24",
+            "text": "Çok öksürüyorum"
+        },
+        {
+            "questionID": "Q25",
+            "text": "Hava yollarımda çoğunlukla balgam var"
+        },
+        {
+            "questionID": "Q26",
+            "text": "Solunum sıkıntım nedeni ile utanacağım durumlardan kaçınıyorum"
+        },
+        {
+            "questionID": "Q27",
+            "text": "Arkadaşlarımın/tanıdıkların yanında kendimi iyi hisse-diyorum"
+        },
+        {
+            "questionID": "Q28",
+            "text": "Nefes darlığı atağı yaşamaktan korkuyoum"
+        },
+        {
+            "questionID": "Q29",
+            "text": "Hareket ederken nefes darlığı yaşıyorum"
+        },
+        {
+            "questionID": "Q30",
+            "text": "Hastalığımın yol açtığı kısıtlanmalardan tedirginim"
+        },
+        {
+            "questionID": "Q31",
+            "text": "Hastalığımdan dolayı eşimle olan ilişkim bozulmuş durumda"
+        },
+        {
+            "questionID": "Q32",
+            "text": "Alışverişe gidebilirim"
+        },
+        {
+            "questionID": "Q33",
+            "text": "Hoşuma giden her uğraşıyı/hobiyi yapabilirim"
+        },
+        {
+            "questionID": "Q34",
+            "text": "Çoğunlukla huzursuzum"
+        },
+        {
+            "questionID": "Q35",
+            "text": "Hastalığımdan ötürü arkadaşlarım/tanıdıklarımla olan ilişkim sınırlanmış durumda"
+        },
+        {
+            "questionID": "Q36",
+            "text": "Hayattan zevk alıyorum"
+        },
+        {
+            "questionID": "Q37",
+            "text": "Sosyal olaylarda yer alabiliyorum"
+        },
+        {
+            "questionID": "Q38",
+            "text": "Çoğunlukla üzgünüm"
+        },
+        {
+            "questionID": "Q39",
+            "text": "Umumi yerlerde nefes darlığım beni rahatsız ediyor"
+        },
+        {
+            "questionID": "Q40",
+            "text": "Çoğunlukla sinirliyim"
+        },
+        {
+            "questionID": "Q41",
+            "text": "Kendi kendime giyinip soyunabilirim"
+        },
+        {
+            "questionID": "Q42",
+            "text": "Tüm gün boyunca yorgunum"
+        },
+        {
+            "questionID": "Q43",
+            "text": "Kendimi ayrı kalmış hissediyorum"
+        },
+        {
+            "questionID": "Q44",
+            "text": "Hastalığımla başaçıkabiliyorum"
+        },
+        {
+            "questionID": "Q45",
+            "text": "Solunum sıkıntım beni günlük işlerimden alıkoyuyor"
+        },
+        {
+            "questionID": "Q46",
+            "text": "Ailem hastalığımdan ötürü çekiyor"
+        },
+        {
+            "questionID": "Q47",
+            "text": "Solunum sıkıntım nedeni ile diğer insanlarla ilişkilerim kesildi"
+        },
+        {
+            "questionID": "Q48",
+            "text": "Boş zaman aktivitelerim kısıtlandı"
+        },
+        {
+            "questionID": "Q49",
+            "text": "Genel olarak hayatımdan memnunum"
+        }
+    ]
+}

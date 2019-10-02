@@ -1,0 +1,264 @@
+{
+    "type": "SRI",
+    "language": "sv",
+    "texts": [
+        {
+            "textID": "COVER_LOGO_HEADER",
+            "text": "Severe Respiratory Insufficiency Questionnaire"
+        },
+        {
+            "textID": "COVER_LOGO_TITLE",
+            "text": "SRI"
+        },
+        {
+            "textID": "COVER_LOGO_SUBTITLE",
+            "text": "Frågeformulär om livssituationen för patienter med Svår Respiratorisk Insufficiens"
+        },
+        {
+            "textID": "COVER_ADDRESS",
+            "text": "Bästa patient"
+        },
+        {
+            "textID": "COVER_INTRODUCTION",
+            "text": "Du behandlas hos oss på grund av Dina andningsproblem. För att kunna bedöma Din nuvarande livssituation ber vi Dig att besvara detta frågeformulär. Var vänlig besvara varje fråga. Markera det svar som passar bäst med endast ett kryss. Det är naturligtvis frivilligt att svara. Uppgifterna om Dig skyddas av absolut sekretess enligt gällande lagstiftning."
+        },
+        {
+            "textID": "COVER_CODE_LABEL",
+            "text": "Patient-id"
+        },
+        {
+            "textID": "COPYRIGHT",
+            "text": "© W. Windisch, Universitetssjukhuset i Freiburg, Tyskland"
+        },
+        {
+            "textID": "TABLE_INTRODUCTION",
+            "text": "Följande påståenden handlar om hur Du mår, och om olika aspekter på Ditt dagliga liv."
+        },
+        {
+            "textID": "SURVEY_HEADER_INTRODUCTION",
+            "text": "Hur har Du haft det under den senaste veckan? För varje påstående ber vi Dig att kryssa för det svar som bäst stämmer in på Din situation."
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOWEST",
+            "text": "Stämmer inte alls"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOW",
+            "text": "Stämmer dåligt"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_MID",
+            "text": "Stämmer delvis"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGH",
+            "text": "Stämmer bra"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGHEST",
+            "text": "Stämmer helt och hållet"
+        },
+        {
+            "textID": "SURVEY_THANK_YOU",
+            "text": "Tack"
+        }
+    ],
+    "questions": [
+        {
+            "questionID": "Q1",
+            "text": "Jag har svårt att gå i trappor"
+        },
+        {
+            "questionID": "Q2",
+            "text": "Jag blir andfådd när jag äter"
+        },
+        {
+            "questionID": "Q3",
+            "text": "Jag kan gå ut på kvällen"
+        },
+        {
+            "questionID": "Q4",
+            "text": "Jag känner mig ofta eländig till mods"
+        },
+        {
+            "questionID": "Q5",
+            "text": "Jag är andfådd även utan fysisk ansträngning"
+        },
+        {
+            "questionID": "Q6",
+            "text": "Jag har ofta huvudvärk"
+        },
+        {
+            "questionID": "Q7",
+            "text": "Jag har många vänner och bekanta"
+        },
+        {
+            "questionID": "Q8",
+            "text": "Jag oroar mig för att min sjukdom skall försämras"
+        },
+        {
+            "questionID": "Q9",
+            "text": "Jag har lätt att somna när jag lagt mig på kvällen"
+        },
+        {
+            "questionID": "Q10",
+            "text": "Jag har lätt för att umgås med andra människor"
+        },
+        {
+            "questionID": "Q11",
+            "text": "Jag blir yr ibland"
+        },
+        {
+            "questionID": "Q12",
+            "text": "Jag vaknar på nätterna och är andfådd"
+        },
+        {
+            "questionID": "Q13",
+            "text": "Jag är rädd att få andnöd på nätterna"
+        },
+        {
+            "questionID": "Q14",
+            "text": "Jag har ofta ont i nacken"
+        },
+        {
+            "questionID": "Q15",
+            "text": "Jag är låst till hemmet"
+        },
+        {
+            "questionID": "Q16",
+            "text": "Jag har svårt att utföra hushållsarbete"
+        },
+        {
+            "questionID": "Q17",
+            "text": "Jag vaknar ofta på nätterna"
+        },
+        {
+            "questionID": "Q18",
+            "text": "Jag sover hela natten"
+        },
+        {
+            "questionID": "Q19",
+            "text": "Jag är ofta andfådd"
+        },
+        {
+            "questionID": "Q20",
+            "text": "Jag ser positivt på framtiden"
+        },
+        {
+            "questionID": "Q21",
+            "text": "Jag har en känsla av att vara ensam"
+        },
+        {
+            "questionID": "Q22",
+            "text": "Jag blir andfådd när jag pratar"
+        },
+        {
+            "questionID": "Q23",
+            "text": "Besök är mycket ansträngande för mig"
+        },
+        {
+            "questionID": "Q24",
+            "text": "Jag hostar mycket"
+        },
+        {
+            "questionID": "Q25",
+            "text": "Jag har ofta slem i luftvägarna"
+        },
+        {
+            "questionID": "Q26",
+            "text": "Jag undviker situationer där jag riskerar att göra bort mig på grund av mina andningsbesvär"
+        },
+        {
+            "questionID": "Q27",
+            "text": "Jag känner mig väl till mods tillsammans med vänner och bekanta"
+        },
+        {
+            "questionID": "Q28",
+            "text": "Jag är rädd för att få en attack av andfåddhet"
+        },
+        {
+            "questionID": "Q29",
+            "text": "Jag blir andfådd vid fysisk ansträngning"
+        },
+        {
+            "questionID": "Q30",
+            "text": "Begränsningarna på grund av min sjukdom går mig på nerverna"
+        },
+        {
+            "questionID": "Q31",
+            "text": "Mitt äktenskap/förhållande blir lidande på grund av min sjukdom"
+        },
+        {
+            "questionID": "Q32",
+            "text": "Jag kan gå och handla"
+        },
+        {
+            "questionID": "Q33",
+            "text": "Jag kan ägna mig åt alla hobbies som jag är intresserad av"
+        },
+        {
+            "questionID": "Q34",
+            "text": "Jag känner mig ofta uppretad"
+        },
+        {
+            "questionID": "Q35",
+            "text": "På grund av min sjukdom begränsas kontakten med vänner och bekanta"
+        },
+        {
+            "questionID": "Q36",
+            "text": "Jag gläder mig över mitt liv"
+        },
+        {
+            "questionID": "Q37",
+            "text": "Jag kan delta i sällskapslivet"
+        },
+        {
+            "questionID": "Q38",
+            "text": "Jag är ofta ledsen"
+        },
+        {
+            "questionID": "Q39",
+            "text": "Mina andningsbesvär stör mig när jag är bland folk"
+        },
+        {
+            "questionID": "Q40",
+            "text": "Jag är ofta nervös"
+        },
+        {
+            "questionID": "Q41",
+            "text": "Jag kan klä på mig själv"
+        },
+        {
+            "questionID": "Q42",
+            "text": "Jag är trött hela dagen"
+        },
+        {
+            "questionID": "Q43",
+            "text": "Jag känner mig isolerad"
+        },
+        {
+            "questionID": "Q44",
+            "text": "Jag kan hantera min sjukdom"
+        },
+        {
+            "questionID": "Q45",
+            "text": "Mina andningsbesvär hindrar mig i normala vardagsaktiviteter"
+        },
+        {
+            "questionID": "Q46",
+            "text": "Mitt familjeliv belastas av sjukdomen"
+        },
+        {
+            "questionID": "Q47",
+            "text": "Jag har brutit kontakten med andra människor på grund av mina andningsbesvär"
+        },
+        {
+            "questionID": "Q48",
+            "text": "Mina möjligheter till fritidsaktiviteter är begränsade"
+        },
+        {
+            "questionID": "Q49",
+            "text": "Jag är nöjd med mitt liv i största allmänhet"
+        }
+    ]
+}

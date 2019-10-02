@@ -1,0 +1,264 @@
+{
+    "type": "SRI",
+    "language": "en",
+    "texts": [
+        {
+            "textID": "COVER_LOGO_HEADER",
+            "text": "Severe Respiratory Insufficiency Questionnaire"
+        },
+        {
+            "textID": "COVER_LOGO_TITLE",
+            "text": "SRI"
+        },
+        {
+            "textID": "COVER_LOGO_SUBTITLE",
+            "text": "General Health Questionnaire for patients with Severe Respiratory Insufficiency"
+        },
+        {
+            "textID": "COVER_ADDRESS",
+            "text": "Dear patient"
+        },
+        {
+            "textID": "COVER_INTRODUCTION",
+            "text": "We are treating you for your respiratory disorder. Please fill in this questionnaire so that we can assess your current state of general health. Please answer every question by marking the appropriate answer once with a cross. Participation is, of course, voluntary. All data is bound by the rules of patient/doctor confidentiality and will be treated in strict confidence. Your attending physician will be pleased to answer any questions you may have."
+        },
+        {
+            "textID": "COVER_CODE_LABEL",
+            "text": "Code number"
+        },
+        {
+            "textID": "COPYRIGHT",
+            "text": "© W. Windisch, Hospital Cologne, Germany"
+        },
+        {
+            "textID": "TABLE_INTRODUCTION",
+            "text": "The following question relate to your general condition. You will see statements related to various aspects of daily life."
+        },
+        {
+            "textID": "SURVEY_HEADER_INTRODUCTION",
+            "text": "How did you feel last week? For EVERY statement please mark the answer that best applies to you."
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOWEST",
+            "text": "completely untrue"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOW",
+            "text": "mostly untrue"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_MID",
+            "text": "sometimes true"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGH",
+            "text": "mostly true"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGHEST",
+            "text": "always true"
+        },
+        {
+            "textID": "SURVEY_THANK_YOU",
+            "text": "Thank you!"
+        }
+    ],
+    "questions": [
+        {
+            "questionID": "Q1",
+            "text": "I find it difficult to climb stairs"
+        },
+        {
+            "questionID": "Q2",
+            "text": "I suffer from breathing problems when I eat"
+        },
+        {
+            "questionID": "Q3",
+            "text": "I can go out in the evening"
+        },
+        {
+            "questionID": "Q4",
+            "text": "I often feel miserable"
+        },
+        {
+            "questionID": "Q5",
+            "text": "I suffer from breathing problems even without physical exertion"
+        },
+        {
+            "questionID": "Q6",
+            "text": "I often have a headache"
+        },
+        {
+            "questionID": "Q7",
+            "text": "I have many friends and acquaintances"
+        },
+        {
+            "questionID": "Q8",
+            "text": "I worry that my illness might worsen"
+        },
+        {
+            "questionID": "Q9",
+            "text": "I go to sleep easily"
+        },
+        {
+            "questionID": "Q10",
+            "text": "I can deal with other people easily"
+        },
+        {
+            "questionID": "Q11",
+            "text": "I sometimes feel dizzy"
+        },
+        {
+            "questionID": "Q12",
+            "text": "I wake up at night with breathing difficulties"
+        },
+        {
+            "questionID": "Q13",
+            "text": "I am afraid of having breathing difficulties at night"
+        },
+        {
+            "questionID": "Q14",
+            "text": "I often have neck pain"
+        },
+        {
+            "questionID": "Q15",
+            "text": "I am largely confined to the house"
+        },
+        {
+            "questionID": "Q16",
+            "text": "Housework is difficult for me"
+        },
+        {
+            "questionID": "Q17",
+            "text": "I often wake up at night"
+        },
+        {
+            "questionID": "Q18",
+            "text": "I sleep through the night easily"
+        },
+        {
+            "questionID": "Q19",
+            "text": "I am often short of breath"
+        },
+        {
+            "questionID": "Q20",
+            "text": "I am optimistic about the future"
+        },
+        {
+            "questionID": "Q21",
+            "text": "I feel lonely"
+        },
+        {
+            "questionID": "Q22",
+            "text": "I have trouble breathing when I speak"
+        },
+        {
+            "questionID": "Q23",
+            "text": "Visitors exhaust me"
+        },
+        {
+            "questionID": "Q24",
+            "text": "I cough a lot"
+        },
+        {
+            "questionID": "Q25",
+            "text": "There is often mucus in my airways"
+        },
+        {
+            "questionID": "Q26",
+            "text": "I avoid situations where my breathing problems might embarrass me"
+        },
+        {
+            "questionID": "Q27",
+            "text": "I feel good when I am with friends / acquaintances"
+        },
+        {
+            "questionID": "Q28",
+            "text": "I am afraid of having a bout of difficult breathing"
+        },
+        {
+            "questionID": "Q29",
+            "text": "I have difficulties breathing during physical exertion"
+        },
+        {
+            "questionID": "Q30",
+            "text": "I am irritated by the limitations caused by my illness"
+        },
+        {
+            "questionID": "Q31",
+            "text": "My marriage/relationship is suffering because of my illness"
+        },
+        {
+            "questionID": "Q32",
+            "text": "I can go shopping"
+        },
+        {
+            "questionID": "Q33",
+            "text": "I can pursue all hobbies that interest me"
+        },
+        {
+            "questionID": "Q34",
+            "text": "I am often irritable"
+        },
+        {
+            "questionID": "Q35",
+            "text": "My contact with friends / acquaintances is limited by my illness"
+        },
+        {
+            "questionID": "Q36",
+            "text": "I am enjoying life"
+        },
+        {
+            "questionID": "Q37",
+            "text": "I can take part in social events"
+        },
+        {
+            "questionID": "Q38",
+            "text": "I am often sad"
+        },
+        {
+            "questionID": "Q39",
+            "text": "My breathing difficulties bother me in public situations"
+        },
+        {
+            "questionID": "Q40",
+            "text": "I am often nervous"
+        },
+        {
+            "questionID": "Q41",
+            "text": "I can dress myself"
+        },
+        {
+            "questionID": "Q42",
+            "text": "I am tired during the day"
+        },
+        {
+            "questionID": "Q43",
+            "text": "I feel isolated"
+        },
+        {
+            "questionID": "Q44",
+            "text": "I can cope well with my illness"
+        },
+        {
+            "questionID": "Q45",
+            "text": "My breathing difficulties impair me in everyday activities"
+        },
+        {
+            "questionID": "Q46",
+            "text": "My family life is suffering because of my illness"
+        },
+        {
+            "questionID": "Q47",
+            "text": "I have broken off contact to other people because of my breathing problems"
+        },
+        {
+            "questionID": "Q48",
+            "text": "My free-time opportunities are limited"
+        },
+        {
+            "questionID": "Q49",
+            "text": "I am satisfied with life in general"
+        }
+    ]
+}

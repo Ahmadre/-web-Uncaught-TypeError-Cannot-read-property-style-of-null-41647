@@ -1,0 +1,264 @@
+{
+    "type": "SRI",
+    "language": "nb",
+    "texts": [
+        {
+            "textID": "COVER_LOGO_HEADER",
+            "text": "Severe Respiratory Insufficiency Questionnaire"
+        },
+        {
+            "textID": "COVER_LOGO_TITLE",
+            "text": "SRI"
+        },
+        {
+            "textID": "COVER_LOGO_SUBTITLE",
+            "text": "Pasient-spørreskjema om opplevelse av egen helsetilstand ved respirasjonssvikt"
+        },
+        {
+            "textID": "COVER_ADDRESS",
+            "text": "Kjære pasient"
+        },
+        {
+            "textID": "COVER_INTRODUCTION",
+            "text": "Du behandles på grunn av pustevanskene dine. For å vurdere din nåværende tilstand ber vi deg fylle ut dette spørreskjemaet. Det er fint om du besvarer alle spørsmålene ved å krysse av det alternativet som passer best. Det er selvfølgelig frivillig å delta i spørreundersøkelsen. Alle opplysninger er underlagt taushetsplikt og behandles strengt konfidensielt. Dersom du har kommentarer eller spørsmål, kan du ta kontakt med prosjektansvarlig. "
+        },
+        {
+            "textID": "COVER_CODE_LABEL",
+            "text": "Kodenummer"
+        },
+        {
+            "textID": "COPYRIGHT",
+            "text": "© W. Windisch, Universitetssykehuset Freiburg, Tyskland"
+        },
+        {
+            "textID": "TABLE_INTRODUCTION",
+            "text": "Følgende spørsmål berører den generelle helsetilstanden din. Utsagnene nedenfor tar for seg forskjellige aspekter ved det daglige liv."
+        },
+        {
+            "textID": "SURVEY_HEADER_INTRODUCTION",
+            "text": "Hvordan har du hatt det i løpet av den siste uken? Vennligst sett et kryss ved svaret som passer best med HVERT enkelt utsagn."
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOWEST",
+            "text": "Stemmer ikke i det hele tatt"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOW",
+            "text": "Stemmer nesten ikke"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_MID",
+            "text": "Stemmer delvis"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGH",
+            "text": "Stemmer ganske bra"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGHEST",
+            "text": "Stemmer helt"
+        },
+        {
+            "textID": "SURVEY_THANK_YOU",
+            "text": "Tusen takk"
+        }
+    ],
+    "questions": [
+        {
+            "questionID": "Q1",
+            "text": "Det er vanskelig å gå i trapper"
+        },
+        {
+            "questionID": "Q2",
+            "text": "Jeg har pustevansker under måltider"
+        },
+        {
+            "questionID": "Q3",
+            "text": "Jeg kan gå ut om kveldene"
+        },
+        {
+            "questionID": "Q4",
+            "text": "Jeg føler meg ofte dårlig"
+        },
+        {
+            "questionID": "Q5",
+            "text": "Selv uten fysiske anstrengelser har jeg pustevansker"
+        },
+        {
+            "questionID": "Q6",
+            "text": "Jeg har ofte hodepine"
+        },
+        {
+            "questionID": "Q7",
+            "text": "Jeg har mange venner og bekjente"
+        },
+        {
+            "questionID": "Q8",
+            "text": "Jeg er bekymret for at sykdommen min skal bli verre"
+        },
+        {
+            "questionID": "Q9",
+            "text": "Jeg har ingen problemer med å sovne"
+        },
+        {
+            "questionID": "Q10",
+            "text": "Jeg kan godt omgås andre mennesker"
+        },
+        {
+            "questionID": "Q11",
+            "text": "Jeg er av og til svimmel"
+        },
+        {
+            "questionID": "Q12",
+            "text": "Jeg våkner med pusteproblemer om natten"
+        },
+        {
+            "questionID": "Q13",
+            "text": "Jeg er redd for å få pustevansker om natten"
+        },
+        {
+            "questionID": "Q14",
+            "text": "Jeg har ofte vondt i nakken"
+        },
+        {
+            "questionID": "Q15",
+            "text": "Jeg er sterkt bundet til hjemmet mitt"
+        },
+        {
+            "questionID": "Q16",
+            "text": "Husarbeid er vanskelig for meg"
+        },
+        {
+            "questionID": "Q17",
+            "text": "Jeg våkner ofte om natten"
+        },
+        {
+            "questionID": "Q18",
+            "text": "Jeg sover godt hele natten"
+        },
+        {
+            "questionID": "Q19",
+            "text": "Jeg er ofte kortpustet"
+        },
+        {
+            "questionID": "Q20",
+            "text": "Jeg ser positivt på framtiden"
+        },
+        {
+            "questionID": "Q21",
+            "text": "Jeg har følelsen av å være ensom"
+        },
+        {
+            "questionID": "Q22",
+            "text": "Jeg er tungpusten når jeg snakker"
+        },
+        {
+            "questionID": "Q23",
+            "text": " Det anstrenger meg veldig å få besøk"
+        },
+        {
+            "questionID": "Q24",
+            "text": "Jeg hoster mye"
+        },
+        {
+            "questionID": "Q25",
+            "text": "Jeg har ofte slim i luftveiene"
+        },
+        {
+            "questionID": "Q26",
+            "text": "Jeg unngår situasjoner der mine pustevansker kan gjøre det pinlig for meg"
+        },
+        {
+            "questionID": "Q27",
+            "text": "Jeg føler meg vel sammen med venner/ bekjente"
+        },
+        {
+            "questionID": "Q28",
+            "text": "Jeg er redd for å få anfall med tungpust"
+        },
+        {
+            "questionID": "Q29",
+            "text": "Jeg er tungpusten ved fysisk anstrengelse"
+        },
+        {
+            "questionID": "Q30",
+            "text": "Jeg er irritert over innskrenkningene som min sykdom medfører"
+        },
+        {
+            "questionID": "Q31",
+            "text": "Mitt ekteskap/samliv lider under sykdommen min"
+        },
+        {
+            "questionID": "Q32",
+            "text": "Jeg kan gå og handle"
+        },
+        {
+            "questionID": "Q33",
+            "text": "Jeg kan utøve alle fritidsaktiviteter som interesserer meg"
+        },
+        {
+            "questionID": "Q34",
+            "text": "Jeg er ofte irritabel"
+        },
+        {
+            "questionID": "Q35",
+            "text": "På grunn av sykdommen min er kontakten med venner/bekjente innskrenket"
+        },
+        {
+            "questionID": "Q36",
+            "text": "Jeg gleder meg over livet mitt"
+        },
+        {
+            "questionID": "Q37",
+            "text": "Jeg kan delta på sosiale sammenkomster"
+        },
+        {
+            "questionID": "Q38",
+            "text": "Jeg er ofte trist"
+        },
+        {
+            "questionID": "Q39",
+            "text": "Pustevanskene mine plager meg når jeg er ute blant folk"
+        },
+        {
+            "questionID": "Q40",
+            "text": "Jeg er ofte nervøs"
+        },
+        {
+            "questionID": "Q41",
+            "text": "Jeg kan kle på meg selv"
+        },
+        {
+            "questionID": "Q42",
+            "text": "Jeg er trett på dagtid"
+        },
+        {
+            "questionID": "Q43",
+            "text": "Jeg føler meg isolert"
+        },
+        {
+            "questionID": "Q44",
+            "text": "Jeg klarer meg fint når det gjelder sykdommen min"
+        },
+        {
+            "questionID": "Q45",
+            "text": "Mine pusteplager hemmer meg i dagligdagse aktiviteter"
+        },
+        {
+            "questionID": "Q46",
+            "text": "Sykdommen belaster familielivet mitt"
+        },
+        {
+            "questionID": "Q47",
+            "text": "På grunn av mine pusteplager har jeg brutt kontakten med andre mennesker"
+        },
+        {
+            "questionID": "Q48",
+            "text": "Mine fritidsmuligheter er innskrenket"
+        },
+        {
+            "questionID": "Q49",
+            "text": "Generelt er jeg fornøyd med livet mitt"
+        }
+    ]
+}

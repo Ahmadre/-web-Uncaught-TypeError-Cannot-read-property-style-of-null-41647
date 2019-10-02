@@ -1,0 +1,264 @@
+{
+    "type": "SRI",
+    "language": "pt",
+    "texts": [
+        {
+            "textID": "COVER_LOGO_HEADER",
+            "text": "Severe Respiratory Insufficiency Questionnaire"
+        },
+        {
+            "textID": "COVER_LOGO_TITLE",
+            "text": "SRI"
+        },
+        {
+            "textID": "COVER_LOGO_SUBTITLE",
+            "text": "Questionário para avaliação de doentes com Insuficiência Respiratória Grave"
+        },
+        {
+            "textID": "COVER_ADDRESS",
+            "text": "Caro doente"
+        },
+        {
+            "textID": "COVER_INTRODUCTION",
+            "text": "Estamos a tratá-lo relativamente ao seu problema respiratório. Preencha este questionário, para que possamos avaliar a sua condição de saúde atual. Responda a cada pergunta assinalando com uma cruz apenas a resposta adequada. A sua participação é voluntária. Todos os dados são sujeitos a sigilo médico e serão tratados confidencialmente. O seu médico estará ao dispor para responder a quaisquer questões."
+        },
+        {
+            "textID": "COVER_CODE_LABEL",
+            "text": "Número de código"
+        },
+        {
+            "textID": "COPYRIGHT",
+            "text": "© W. Windisch, Hospital Universitário Freiburg, Alemanha"
+        },
+        {
+            "textID": "TABLE_INTRODUCTION",
+            "text": "As seguintes perguntas são sobre a sua saúde em geral. Encontrará afirmações relacionadas com vários aspetos da vida diária."
+        },
+        {
+            "textID": "SURVEY_HEADER_INTRODUCTION",
+            "text": "Como se sentiu na semana passada? Para CADA afirmação assinale a resposta que melhor se aplica a si."
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOWEST",
+            "text": "Discordo totalmente"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOW",
+            "text": "Discordo um pouco"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_MID",
+            "text": "Concordo às vezes"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGH",
+            "text": "Concordo um pouco"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGHEST",
+            "text": "Concordo plenamente"
+        },
+        {
+            "textID": "SURVEY_THANK_YOU",
+            "text": "Muito obrigado"
+        }
+    ],
+    "questions": [
+        {
+            "questionID": "Q1",
+            "text": "É difícil para mim subir escadas"
+        },
+        {
+            "questionID": "Q2",
+            "text": "Sinto falta de ar enquanto como"
+        },
+        {
+            "questionID": "Q3",
+            "text": "Consigo sair à noite"
+        },
+        {
+            "questionID": "Q4",
+            "text": "Sinto-me péssimo/a frequentemente"
+        },
+        {
+            "questionID": "Q5",
+            "text": "Sinto falta de ar mesmo sem fazer esforço físico"
+        },
+        {
+            "questionID": "Q6",
+            "text": "Tenho dores de cabeça frequentemente"
+        },
+        {
+            "questionID": "Q7",
+            "text": "Tenho muitos amigos e conhecidos"
+        },
+        {
+            "questionID": "Q8",
+            "text": "Tenho medo que a minha doença se agrave"
+        },
+        {
+            "questionID": "Q9",
+            "text": "Adormeço facilmente"
+        },
+        {
+            "questionID": "Q10",
+            "text": "Consigo lidar facilmente com outras pessoas"
+        },
+        {
+            "questionID": "Q11",
+            "text": "Às vezes sinto-me tonto"
+        },
+        {
+            "questionID": "Q12",
+            "text": "Acordo durante a noite com falta de ar"
+        },
+        {
+            "questionID": "Q13",
+            "text": "Tenho medo de ter falta de ar durante a noite"
+        },
+        {
+            "questionID": "Q14",
+            "text": "Tenho dores no pescoço frequentemente"
+        },
+        {
+            "questionID": "Q15",
+            "text": "Estou limitado à minha casa"
+        },
+        {
+            "questionID": "Q16",
+            "text": "O trabalho doméstico é muito difícil para mim"
+        },
+        {
+            "questionID": "Q17",
+            "text": "Acordo frequentemente durante a noite"
+        },
+        {
+            "questionID": "Q18",
+            "text": "Durmo muito bem durante toda a noite"
+        },
+        {
+            "questionID": "Q19",
+            "text": "Sinto frequentemente falta de ar"
+        },
+        {
+            "questionID": "Q20",
+            "text": "Estou otimista quanto ao futuro"
+        },
+        {
+            "questionID": "Q21",
+            "text": "Sinto-me só"
+        },
+        {
+            "questionID": "Q22",
+            "text": "Sinto dificuldade em respirar enquanto falo"
+        },
+        {
+            "questionID": "Q23",
+            "text": "As visitas cansam-me muito"
+        },
+        {
+            "questionID": "Q24",
+            "text": "Tusso muito"
+        },
+        {
+            "questionID": "Q25",
+            "text": "Tenho frequentemente muco (expectoração) nas minhas vias respiratórias"
+        },
+        {
+            "questionID": "Q26",
+            "text": "Evito situações onde os meus problemas respiratórios me possam envergonhar"
+        },
+        {
+            "questionID": "Q27",
+            "text": "Sinto-me bem quando estou com amigos/conhecidos."
+        },
+        {
+            "questionID": "Q28",
+            "text": "Tenho medo de ter uma crise de falta de ar"
+        },
+        {
+            "questionID": "Q29",
+            "text": "Sinto falta de ar durante esforços físicos"
+        },
+        {
+            "questionID": "Q30",
+            "text": "Sinto-me irritado com as limitações causadas pela minha doença"
+        },
+        {
+            "questionID": "Q31",
+            "text": "O meu casamento/relacionamento sofre por causa da minha doença"
+        },
+        {
+            "questionID": "Q32",
+            "text": "Consigo ir às compras"
+        },
+        {
+            "questionID": "Q33",
+            "text": "Consigo dedicar-me a todos os passatempos que me interessam"
+        },
+        {
+            "questionID": "Q34",
+            "text": "Sinto-me frequentemente irritado"
+        },
+        {
+            "questionID": "Q35",
+            "text": "O meu contacto com amigos/conhecidos é limitado por causa da minha doença"
+        },
+        {
+            "questionID": "Q36",
+            "text": "Sinto-me feliz com a minha vida"
+        },
+        {
+            "questionID": "Q37",
+            "text": "Consigo participar em eventos sociais"
+        },
+        {
+            "questionID": "Q38",
+            "text": "Sinto-me triste frequentemente"
+        },
+        {
+            "questionID": "Q39",
+            "text": "Os meus problemas respiratórios incomodam-me em público"
+        },
+        {
+            "questionID": "Q40",
+            "text": "Sinto-me nervoso frequentemente"
+        },
+        {
+            "questionID": "Q41",
+            "text": "Visto-me sozinho"
+        },
+        {
+            "questionID": "Q42",
+            "text": "Sinto-me cansado durante o dia"
+        },
+        {
+            "questionID": "Q43",
+            "text": "Sinto-me isolado"
+        },
+        {
+            "questionID": "Q44",
+            "text": "Lido bem com a minha doença"
+        },
+        {
+            "questionID": "Q45",
+            "text": "Os meus problemas respiratórios comprometem as minhas atividades diárias"
+        },
+        {
+            "questionID": "Q46",
+            "text": "A minha vida familiar é afetada pela doença"
+        },
+        {
+            "questionID": "Q47",
+            "text": "Cortei o contacto com as outras pessoas por causa dos meus problemas respiratórios"
+        },
+        {
+            "questionID": "Q48",
+            "text": "As minhas atividades de lazer são limitadas"
+        },
+        {
+            "questionID": "Q49",
+            "text": "Estou satisfeito com a minha vida em geral"
+        }
+    ]
+}

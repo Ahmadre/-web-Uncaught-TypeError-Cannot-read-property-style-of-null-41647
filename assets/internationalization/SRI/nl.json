@@ -1,0 +1,264 @@
+{
+    "type": "SRI",
+    "language": "nl",
+    "texts": [
+        {
+            "textID": "COVER_LOGO_HEADER",
+            "text": "Severe Respiratory Insufficiency Questionnaire"
+        },
+        {
+            "textID": "COVER_LOGO_TITLE",
+            "text": "SRI"
+        },
+        {
+            "textID": "COVER_LOGO_SUBTITLE",
+            "text": "Vragenlijst voor patiënten over de gezondheidstoestand bij ernstige respiratoire insufficiëntie van de luchtwegen"
+        },
+        {
+            "textID": "COVER_ADDRESS",
+            "text": "Beste patiënt"
+        },
+        {
+            "textID": "COVER_INTRODUCTION",
+            "text": "U bent onder behandeling vanwege uw ademhalingsstoornis. Om uw huidige gezondheidstoestand te beoordelen, vragen wij u de volgende vragenlijst te beantwoorden. Beantwoord elke vraag door het juiste antwoord aan te kruisen. Het antwoord is natuurlijk vrijwillig. Alle gegevens vallen onder het medisch geheim en zullen strikt vertrouwelijk worden behandeld. Uw afdelingsarts zal beschikbaar zijn om al uw vragen te beantwoorden."
+        },
+        {
+            "textID": "COVER_CODE_LABEL",
+            "text": "Codenummer"
+        },
+        {
+            "textID": "COPYRIGHT",
+            "text": "© W. Windisch, Universitair Ziekenhuis Freiburg, Duitsland"
+        },
+        {
+            "textID": "TABLE_INTRODUCTION",
+            "text": "In het volgende stuk gaat het over u algemeen welbevinden. U vindt hier vragen over verschillende aspecten van het dagelijkse leven."
+        },
+        {
+            "textID": "SURVEY_HEADER_INTRODUCTION",
+            "text": "Hoe verging het u in de laatste week? Graag bij IEDERE vraag het antwoord aankruisen dat u het meest juist vindt. "
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOWEST",
+            "text": "Helemaal niet mee eens"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOW",
+            "text": "Niet mee eens"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_MID",
+            "text": "Beetje mee eens"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGH",
+            "text": "Wel mee eens"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGHEST",
+            "text": "Zeer mee eens"
+        },
+        {
+            "textID": "SURVEY_THANK_YOU",
+            "text": "Hartelijk dank"
+        }
+    ],
+    "questions": [
+        {
+            "questionID": "Q1",
+            "text": "Traplopen vind ik moeilijk"
+        },
+        {
+            "questionID": "Q2",
+            "text": "Tijdens het eten heb ik adem tekort"
+        },
+        {
+            "questionID": "Q3",
+            "text": "Ik kan ’s avonds uit gaan"
+        },
+        {
+            "questionID": "Q4",
+            "text": "Er komt vaak ellende op mijn pad."
+        },
+        {
+            "questionID": "Q5",
+            "text": "Ook zonder lichamelijke inspanning heb ik adem tekort"
+        },
+        {
+            "questionID": "Q6",
+            "text": "Ik heb dikwijls hoofdpijn"
+        },
+        {
+            "questionID": "Q7",
+            "text": "Ik heb veel vrienden en kennissen"
+        },
+        {
+            "questionID": "Q8",
+            "text": "Ik maak me zorgen dat mijn ziekte verergert"
+        },
+        {
+            "questionID": "Q9",
+            "text": "Ik val goed in slaap"
+        },
+        {
+            "questionID": "Q10",
+            "text": "Ik kan goed met andere mensen omgaan"
+        },
+        {
+            "questionID": "Q11",
+            "text": "Ik ben meestal duizelig"
+        },
+        {
+            "questionID": "Q12",
+            "text": "Ik word ’s nachts wakker door adem tekort"
+        },
+        {
+            "questionID": "Q13",
+            "text": "Ik ben bang voor adem tekort in de nacht"
+        },
+        {
+            "questionID": "Q14",
+            "text": "Ik heb dikwijls nekpijn"
+        },
+        {
+            "questionID": "Q15",
+            "text": "Ik ben sterk aan huis gebonden"
+        },
+        {
+            "questionID": "Q16",
+            "text": "Huishoudelijke taken zijn moeilijk voor mij"
+        },
+        {
+            "questionID": "Q17",
+            "text": "Ik word ‘s nachts vaak wakker"
+        },
+        {
+            "questionID": "Q18",
+            "text": "Ik kan goed doorslapen"
+        },
+        {
+            "questionID": "Q19",
+            "text": "Ik ben vaak kortademig"
+        },
+        {
+            "questionID": "Q20",
+            "text": "Ik zie de toekomst positief tegemoet"
+        },
+        {
+            "questionID": "Q21",
+            "text": "Ik voel me eenzaam"
+        },
+        {
+            "questionID": "Q22",
+            "text": "Tijdens het praten heb ik adem tekort"
+        },
+        {
+            "questionID": "Q23",
+            "text": "Bezoek is zeer inspannend voor mij"
+        },
+        {
+            "questionID": "Q24",
+            "text": "Ik hoest veel"
+        },
+        {
+            "questionID": "Q25",
+            "text": "Mijn luchtwegen zijn dikwijls met slijm gevuld"
+        },
+        {
+            "questionID": "Q26",
+            "text": "Ik vermijd situaties waarin ik mij door mijn ademhalingsklachten zou kunnen schamen"
+        },
+        {
+            "questionID": "Q27",
+            "text": "Bij mijn vrienden/kennissen voel ik mij goed"
+        },
+        {
+            "questionID": "Q28",
+            "text": "Ik heb angst voor een benauwdheid aanval"
+        },
+        {
+            "questionID": "Q29",
+            "text": "Bij lichamelijke belasting heb ik adem tekort"
+        },
+        {
+            "questionID": "Q30",
+            "text": "Ik word op de zenuwen gewerkt door de beperkingen door mijn ziekte"
+        },
+        {
+            "questionID": "Q31",
+            "text": "Mijn echtgenoot/partner lijdt onder mijn ziekte"
+        },
+        {
+            "questionID": "Q32",
+            "text": "Ik kan boodschappen doen"
+        },
+        {
+            "questionID": "Q33",
+            "text": "Ik kan alle hobby’s die mij interesseren uitoefenen"
+        },
+        {
+            "questionID": "Q34",
+            "text": "Ik voel me vaak geïrriteerd"
+        },
+        {
+            "questionID": "Q35",
+            "text": "Door mijn ziekte is het contact met vrienden/bekenden afgenomen"
+        },
+        {
+            "questionID": "Q36",
+            "text": "Ik ben blij met mijn leven"
+        },
+        {
+            "questionID": "Q37",
+            "text": "Aan gezellige bijeenkomsten kan ik deelnemen"
+        },
+        {
+            "questionID": "Q38",
+            "text": "Ik ben dikwijls treurig"
+        },
+        {
+            "questionID": "Q39",
+            "text": "Mijn ademhalingsklachten storen mij in het openbare leven"
+        },
+        {
+            "questionID": "Q40",
+            "text": "Ik ben vaak nerveus"
+        },
+        {
+            "questionID": "Q41",
+            "text": "Ik kan mij alleen aankleden"
+        },
+        {
+            "questionID": "Q42",
+            "text": "Ik ben overdag moe"
+        },
+        {
+            "questionID": "Q43",
+            "text": "Ik voel me geïsoleerd"
+        },
+        {
+            "questionID": "Q44",
+            "text": "Ik kan goed met mijn ziekte overweg"
+        },
+        {
+            "questionID": "Q45",
+            "text": "Mijn ademhalingsklachten hinderen mij bij normale alledaagse onderzoeken"
+        },
+        {
+            "questionID": "Q46",
+            "text": "Mijn familieleven wordt door de ziekte belast"
+        },
+        {
+            "questionID": "Q47",
+            "text": "Door mijn ademhalingsklachten heb ik het contact met andere mensen verbroken"
+        },
+        {
+            "questionID": "Q48",
+            "text": "Mijn mogelijkheden in vrije tijd zijn beperkt"
+        },
+        {
+            "questionID": "Q49",
+            "text": "Over het algemeen ben ik tevreden met mijn leven"
+        }
+    ]
+}

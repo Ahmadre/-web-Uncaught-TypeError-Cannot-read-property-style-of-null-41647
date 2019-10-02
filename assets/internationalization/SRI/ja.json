@@ -1,0 +1,264 @@
+{
+    "type": "SRI",
+    "language": "ja",
+    "texts": [
+        {
+            "textID": "COVER_LOGO_HEADER",
+            "text": "Severe Respiratory Insufficiency Questionnaire"
+        },
+        {
+            "textID": "COVER_LOGO_TITLE",
+            "text": "SRI"
+        },
+        {
+            "textID": "COVER_LOGO_SUBTITLE",
+            "text": "重度呼吸不全の患者様へのアンケート"
+        },
+        {
+            "textID": "COVER_ADDRESS",
+            "text": "患者の皆様へ"
+        },
+        {
+            "textID": "COVER_INTRODUCTION",
+            "text": "当院にて、呼吸障害の治療を受けておられる患者様の現在の状況を把握するため、アンケートを行いますので、この質問票にご回答くださるようお願いいたします。回答方法は、各質問について、該当する回答欄にチェックを入れていただくだけです。もちろん、回答は任意です。医師の守秘義務のもと、すべてのデータを秘密事項として取り扱います。ご不明な点がございましたら、主治医にお尋ねください。"
+        },
+        {
+            "textID": "COVER_CODE_LABEL",
+            "text": "コード番号"
+        },
+        {
+            "textID": "COPYRIGHT",
+            "text": "© W. Windisch, Kliniken Köln"
+        },
+        {
+            "textID": "TABLE_INTRODUCTION",
+            "text": "皆様に普段よくみられる状況を、以下に挙げました。日常生活のさまざまな場面に関する質問にお答え下さい。"
+        },
+        {
+            "textID": "SURVEY_HEADER_INTRODUCTION",
+            "text": "ここ1週間の体調は、いかがでしたか？ご自身の状態に最も当てはまると思われる回答欄にチェックをして下さい。"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOWEST",
+            "text": "まったく当てはまらない"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOW",
+            "text": "あまり当てはまらない"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_MID",
+            "text": "どちらでもない"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGH",
+            "text": "よく当てはまる"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGHEST",
+            "text": "完全に当てはまる"
+        },
+        {
+            "textID": "SURVEY_THANK_YOU",
+            "text": "ありがとうございました"
+        }
+    ],
+    "questions": [
+        {
+            "questionID": "Q1",
+            "text": "階段を上るのが大変である"
+        },
+        {
+            "questionID": "Q2",
+            "text": "食事の際に、息苦しくなる"
+        },
+        {
+            "questionID": "Q3",
+            "text": "夕方、外出することができる"
+        },
+        {
+            "questionID": "Q4",
+            "text": "惨めな気分になることがよくある"
+        },
+        {
+            "questionID": "Q5",
+            "text": "体に負担がかからなくても、息が苦しい"
+        },
+        {
+            "questionID": "Q6",
+            "text": "よく頭が痛くなる"
+        },
+        {
+            "questionID": "Q7",
+            "text": "友人、知人がたくさんいる"
+        },
+        {
+            "questionID": "Q8",
+            "text": "病気が悪くならないか、心配である"
+        },
+        {
+            "questionID": "Q9",
+            "text": "寝つきがよい"
+        },
+        {
+            "questionID": "Q10",
+            "text": "他人とうまく付き合うことができる"
+        },
+        {
+            "questionID": "Q11",
+            "text": "時々、めまいがする"
+        },
+        {
+            "questionID": "Q12",
+            "text": "夜、息苦しくて目が覚める"
+        },
+        {
+            "questionID": "Q13",
+            "text": "夜、呼吸困難にならないか不安である"
+        },
+        {
+            "questionID": "Q14",
+            "text": "首がよく痛くなる"
+        },
+        {
+            "questionID": "Q15",
+            "text": "家に強く拘束されている"
+        },
+        {
+            "questionID": "Q16",
+            "text": "家事をするのが難しい"
+        },
+        {
+            "questionID": "Q17",
+            "text": "夜中によく眼が覚める"
+        },
+        {
+            "questionID": "Q18",
+            "text": "夜通しぐっすりと眠れる"
+        },
+        {
+            "questionID": "Q19",
+            "text": "よく息切れする"
+        },
+        {
+            "questionID": "Q20",
+            "text": "将来を前向きに考えることができる"
+        },
+        {
+            "questionID": "Q21",
+            "text": "寂しいと感じる"
+        },
+        {
+            "questionID": "Q22",
+            "text": "話をすると、呼吸困難になる"
+        },
+        {
+            "questionID": "Q23",
+            "text": "来客があると非常に疲れる"
+        },
+        {
+            "questionID": "Q24",
+            "text": "よく咳をする"
+        },
+        {
+            "questionID": "Q25",
+            "text": "気道によく痰がからむ"
+        },
+        {
+            "questionID": "Q26",
+            "text": "呼吸困難になって、恥をかく恐れがある状況を避ける"
+        },
+        {
+            "questionID": "Q27",
+            "text": "友人、知人と一緒にいると楽しい"
+        },
+        {
+            "questionID": "Q28",
+            "text": "呼吸困難の発作が起こらないか、心配である"
+        },
+        {
+            "questionID": "Q29",
+            "text": "体に負担がかかると、呼吸困難になる"
+        },
+        {
+            "questionID": "Q30",
+            "text": "病気のため、行動が制約されることに苛立つ"
+        },
+        {
+            "questionID": "Q31",
+            "text": "私の病気ために、配偶者／パートナーとの関係に問題が生じている"
+        },
+        {
+            "questionID": "Q32",
+            "text": "買い物に行くことができる"
+        },
+        {
+            "questionID": "Q33",
+            "text": "興味がある事（趣味）ならすべて、没頭することができる"
+        },
+        {
+            "questionID": "Q34",
+            "text": "短気なことが多い"
+        },
+        {
+            "questionID": "Q35",
+            "text": "病気のため、友人、知人との付き合いが制限される"
+        },
+        {
+            "questionID": "Q36",
+            "text": "生きていることを嬉しく思う"
+        },
+        {
+            "questionID": "Q37",
+            "text": "社交的なイベントに参加することができる"
+        },
+        {
+            "questionID": "Q38",
+            "text": "悲しくなることがよくある"
+        },
+        {
+            "questionID": "Q39",
+            "text": "呼吸困難があるため、社会への参加が難しい"
+        },
+        {
+            "questionID": "Q40",
+            "text": "神経質になることが多い"
+        },
+        {
+            "questionID": "Q41",
+            "text": "自分で衣服を着ることができる"
+        },
+        {
+            "questionID": "Q42",
+            "text": "昼間も疲れている"
+        },
+        {
+            "questionID": "Q43",
+            "text": "孤立している感じがする"
+        },
+        {
+            "questionID": "Q44",
+            "text": "病気とうまく付き合っている"
+        },
+        {
+            "questionID": "Q45",
+            "text": "呼吸困難のために、日常生活に支障をきたす"
+        },
+        {
+            "questionID": "Q46",
+            "text": "病気のため、家族に負担がかかっている"
+        },
+        {
+            "questionID": "Q47",
+            "text": "呼吸困難があるため、他人との付き合いをやめてしまった"
+        },
+        {
+            "questionID": "Q48",
+            "text": "自由時間にできることが制限されている"
+        },
+        {
+            "questionID": "Q49",
+            "text": "自分の人生に、おおむね満足している"
+        }
+    ]
+}

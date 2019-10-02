@@ -1,0 +1,261 @@
+{
+    "type": "SRI",
+    "language": "pl",
+    "texts": [
+    {
+      "textID": "COVER_LOGO_HEADER",
+      "text": "Severe Respiratory Insufficiency Questionnaire"
+    },
+    {
+      "textID": "COVER_LOGO_TITLE",
+      "text": "SRI"
+    },
+    {
+      "textID": "COVER_LOGO_SUBTITLE",
+      "text": "Kwestionariusz oceniający samopoczucie chorych z ciężką niewydolnością oddechową"
+    },
+    {
+      "textID": "COVER_ADDRESS",
+      "text": "Szanowna Pani, Szanowny Panie"
+    },
+    {
+      "textID": "COVER_INTRODUCTION",
+      "text": "Jest Pan/Pani leczony/a z powodu zaburzeń oddychania. Dla oceny Pana/Pani aktualnego samopoczucia prosimy o wypełnienie niżej zamieszczonego kwestionariusza. Prosimy o udzielenie odpowiedzi na każde pytanie. Do każdego z pytań należy wybrać tylko jedną odpowiedź i zaznaczyć ją kółkiem. Udzielenie odpowiedzi na poszczególne pytania zawarte w kwestionariuszu jest oczywiście dobrowolne. Wszystkie informacje podlegają tajemnicy lekarskiej i będą ściśle chronione. W razie jakichkolwiek dodatkowych pytań z Pana/Pani strony lekarz jest do Pana/Pani dyspozycji."
+    },
+    {
+      "textID": "COVER_CODE_LABEL",
+      "text": "Kod pacjenta"
+    },
+    {
+      "textID": "COPYRIGHT",
+      "text": "© W. Windisch, Szpital uniwersytecki Freiburg, Niemcy"
+    },
+    {
+      "textID": "TABLE_INTRODUCTION",
+      "text": "Zamieszczone poniżej pytania mają na celu uzyskanie informacji o Pani/Pana stanie ogólnym. Znajdują się wśród nich pytania o różne aspekty codziennego życia."
+    },
+    {
+      "textID": "SURVEY_HEADER_INTRODUCTION",
+      "text": "Jak ci miniony tydzień minął? Proszę zaznaczyć w KAŻDYM oświadczeniu odpowiedź, która najlepiej odnosi się do Ciebie osobiście."
+    },
+    {
+      "textID": "SURVEY_HEADER_VALUE_LOWEST",
+      "text": "Zdecydowanie NIE"
+    },
+    {
+      "textID": "SURVEY_HEADER_VALUE_LOW",
+      "text": "Przeważnie NIE"
+    },
+    {
+      "textID": "SURVEY_HEADER_VALUE_MID",
+      "text": "Czasami TAK"
+    },
+    {
+      "textID": "SURVEY_HEADER_VALUE_HIGH",
+      "text": "Przeważnie TAK"
+    },
+    {
+      "textID": "SURVEY_HEADER_VALUE_HIGHEST",
+      "text": "Zdecydowanie TAK"
+    },
+    {
+      "textID": "SURVEY_THANK_YOU",
+      "text": "Bardzo dziękuję"
+    }],
+    "questions": [
+    {
+      "questionID": "Q1",
+      "text": "Wchodzenie na schody sprawia mi trudność"
+    },
+    {
+      "questionID": "Q2",
+      "text": "Odczuwam duszność podczas jedzenia"
+    },
+    {
+      "questionID": "Q3",
+      "text": "Mogę wyjść wieczorem z domu, np. do znajomych, do teatru"
+    },
+    {
+      "questionID": "Q4",
+      "text": "Często miewam okresy gorszego nastroju (depresję)"
+    },
+    {
+      "questionID": "Q5",
+      "text": "Odczuwam duszność także gdy nie wykonuję wysiłku fizycznego"
+    },
+    {
+      "questionID": "Q6",
+      "text": "Często miewam bóle głowy"
+    },
+    {
+      "questionID": "Q7",
+      "text": "Mam wielu przyjaciół i znajomych"
+    },
+    {
+      "questionID": "Q8",
+      "text": "Martwię się, że moja choroba postępuje"
+    },
+    {
+      "questionID": "Q9",
+      "text": "Łatwo zasypiam"
+    },
+    {
+      "questionID": "Q10",
+      "text": "Dobrze traktuję innych ludzi "
+    },
+    {
+      "questionID": "Q11",
+      "text": "Czasami mam zawroty głowy"
+    },
+    {
+      "questionID": "Q12",
+      "text": "Duszności budzą mnie w nocy"
+    },
+    {
+      "questionID": "Q13",
+      "text": "Odczuwam lęk przed nocną dusznością"
+    },
+    {
+      "questionID": "Q14",
+      "text": "Często miewam bóle karku"
+    },
+    {
+      "questionID": "Q15",
+      "text": "Jestem w znacznym stopniu unieruchomiony(a) w domu"
+    },
+    {
+      "questionID": "Q16",
+      "text": "Ciężko mi wykonywać prace domowe"
+    },
+    {
+      "questionID": "Q17",
+      "text": "Często budzę się w nocy"
+    },
+    {
+      "questionID": "Q18",
+      "text": "Potrafię dobrze przespać całą noc"
+    },
+    {
+      "questionID": "Q19",
+      "text": "Często odczuwam duszność"
+    },
+    {
+      "questionID": "Q20",
+      "text": "Pozytywnie patrzę w przyszłość"
+    },
+    {
+      "questionID": "Q21",
+      "text": "Odczuwam samotność"
+    },
+    {
+      "questionID": "Q22",
+      "text": "Odczuwam duszność podczas mówienia"
+    },
+    {
+      "questionID": "Q23",
+      "text": "Wizyty gości bardzo mnie wyczerpują"
+    },
+    {
+      "questionID": "Q24",
+      "text": "Często kaszlę"
+    },
+    {
+      "questionID": "Q25",
+      "text": "Często mam wydzielinę w oskrzelach"
+    },
+    {
+      "questionID": "Q26",
+      "text": "Unikam sytuacji, w których moje trudności z oddychaniem mogą być dla mnie krępujące"
+    },
+    {
+      "questionID": "Q27",
+      "text": "Dobrze czuję się wśród moich przyjaciół i znajomych"
+    },
+    {
+      "questionID": "Q28",
+      "text": "Odczuwam lęk przed napadami duszności"
+    },
+    {
+      "questionID": "Q29",
+      "text": "Odczuwam duszność podczas wysiłków fizycznych"
+    },
+    {
+      "questionID": "Q30",
+      "text": "Dolegliwości związane z moją chorobą irytują mnie"
+    },
+    {
+      "questionID": "Q31",
+      "text": "Moje małżeństwo (związek) cierpi z powodu mojej choroby"
+    },
+    {
+      "questionID": "Q32",
+      "text": "Mogę iść na zakupy"
+    },
+    {
+      "questionID": "Q33",
+      "text": "Mogę zajmować się wszystkimi hobby, które mnie interesują"
+    },
+    {
+      "questionID": "Q34",
+      "text": "Często jestem rozdrażniony(a)"
+    },
+    {
+      "questionID": "Q35",
+      "text": "Z powodu mojej choroby kontakt z przyjaciółmi i znajomymi jest utrudniony"
+    },
+    {
+      "questionID": "Q36",
+      "text": "Jestem zadowolony(a) ze swojego życia"
+    },
+    {
+      "questionID": "Q37",
+      "text": "Mogę uczestniczyć w spotkaniach towarzyskich"
+    },
+    {
+      "questionID": "Q38",
+      "text": "Często jestem smutny(a)"
+    },
+    {
+      "questionID": "Q39",
+      "text": "Moje trudności z oddychaniem utrudniają mi funkcjonowanie poza domem"
+    },
+    {
+      "questionID": "Q40",
+      "text": "Często jestem nerwowy(a)"
+    },
+    {
+      "questionID": "Q41",
+      "text": "Mogę się samodzielnie ubrać"
+    },
+    {
+      "questionID": "Q42",
+      "text": "W czasie dnia jestem zmęczony(a)"
+    },
+    {
+      "questionID": "Q43",
+      "text": "Czuję się wyizolowany(a)"
+    },
+    {
+      "questionID": "Q44",
+      "text": "Dobrze daję sobie radę z moją chorobą"
+    },
+    {
+      "questionID": "Q45",
+      "text": "Trudności w oddychaniu utrudniają mi wykonywanie czynności dnia codziennego"
+    },
+    {
+      "questionID": "Q46",
+      "text": "Moja choroba wpływa niekorzystnie na moje życie rodzinne"
+    },
+    {
+      "questionID": "Q47",
+      "text": "Z powodu moich trudności z oddychaniem zerwałem(am) kontakty z innymi ludźmi"
+    },
+    {
+      "questionID": "Q48",
+      "text": "Moje możliwości spędzania wolnego czasu są ograniczone"
+    },
+    {
+      "questionID": "Q49",
+      "text": "Ogólnie jestem zadowolony/a ze swojego życia"
+    }]}

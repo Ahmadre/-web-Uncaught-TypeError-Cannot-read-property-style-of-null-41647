@@ -1,0 +1,264 @@
+{
+    "type": "SRI",
+    "language": "da",
+    "texts": [
+        {
+            "textID": "COVER_LOGO_HEADER",
+            "text": "Severe Respiratory Insufficiency Questionnaire"
+        },
+        {
+            "textID": "COVER_LOGO_TITLE",
+            "text": "SRI"
+        },
+        {
+            "textID": "COVER_LOGO_SUBTITLE",
+            "text": "Spørgeskema om det generelle helbred hos patienter med respirationssvigt."
+        },
+        {
+            "textID": "COVER_ADDRESS",
+            "text": "Kære patient"
+        },
+        {
+            "textID": "COVER_INTRODUCTION",
+            "text": "Du er i behandling hos os på grund af din lungesygdom. Til bedømmelse af din nuværende tilstand beder vi dig om at besvare det følgende spørgeskema. Vær venlig at besvare ved at sætte ét kryds ved det mest rigtige svar ved hvert spørgsmål. Deltagelse i besvarelsen er naturligvis frivillig. Alle data er underlagt den lægelige tavshedspligt og behandles strengt fortroligt. Hvis du har spørgsmål, kan du henvende dig til din kontaktlæge."
+        },
+        {
+            "textID": "COVER_CODE_LABEL",
+            "text": "Patientnr."
+        },
+        {
+            "textID": "COPYRIGHT",
+            "text": "© W. Windisch, Hospital Köln, Tyskland"
+        },
+        {
+            "textID": "TABLE_INTRODUCTION",
+            "text": "De følgende spørgsmål handler om din almene tilstand. Der er udsagn om forskellige aspekter af hverdagen."
+        },
+        {
+            "textID": "SURVEY_HEADER_INTRODUCTION",
+            "text": "Du skal svare udfra, hvordan du havde det I SIDSTE UGE. Vær venlig at sætte ét kryds (X) ved det det svar, som passer bedst på dig under HVERT udsagn."
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOWEST",
+            "text": "Helt uenig"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOW",
+            "text": "Delvist Hverkenuenig"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_MID",
+            "text": "Hverken enig/uenig"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGH",
+            "text": "Delvist enig"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGHEST",
+            "text": "Helt enig"
+        },
+        {
+            "textID": "SURVEY_THANK_YOU",
+            "text": "Tak!"
+        }
+    ],
+    "questions": [
+        {
+            "questionID": "Q1",
+            "text": "Det er besværligt for mig at gå op ad trapper"
+        },
+        {
+            "questionID": "Q2",
+            "text": "Jeg har svært ved at få luft, når jeg spiser"
+        },
+        {
+            "questionID": "Q3",
+            "text": "Jeg kan gå i byen om aftenen"
+        },
+        {
+            "questionID": "Q4",
+            "text": "Jeg føler mig ofte skidt tilpas"
+        },
+        {
+            "questionID": "Q5",
+            "text": "Jeg har åndenød – selv uden fysisk aktivitet"
+        },
+        {
+            "questionID": "Q6",
+            "text": "Jeg har ofte hovedpine"
+        },
+        {
+            "questionID": "Q7",
+            "text": "Jeg har mange venner og bekendte"
+        },
+        {
+            "questionID": "Q8",
+            "text": "Jeg frygter, at min sygdom bliver værre"
+        },
+        {
+            "questionID": "Q9",
+            "text": "Jeg har nemt ved at falde I søvn"
+        },
+        {
+            "questionID": "Q10",
+            "text": "Jeg har let ved at omgås andre mennesker"
+        },
+        {
+            "questionID": "Q11",
+            "text": "Jeg føler mig sommetider svimmel"
+        },
+        {
+            "questionID": "Q12",
+            "text": "Jeg vågner om natten med åndenød"
+        },
+        {
+            "questionID": "Q13",
+            "text": "Jeg er bange for at få åndenød om natten"
+        },
+        {
+            "questionID": "Q14",
+            "text": "Jeg har ofte ondt I nakken"
+        },
+        {
+            "questionID": "Q15",
+            "text": "Jeg har svært ved at komme uden for hjemmet"
+        },
+        {
+            "questionID": "Q16",
+            "text": "Jeg har svært ved at udføre husarbejde"
+        },
+        {
+            "questionID": "Q17",
+            "text": "Jeg vågner ofte om natten"
+        },
+        {
+            "questionID": "Q18",
+            "text": "Jeg sover godt igennem"
+        },
+        {
+            "questionID": "Q19",
+            "text": "Jeg er ofte stakåndet/kortåndet"
+        },
+        {
+            "questionID": "Q20",
+            "text": "Jeg ser positivt på fremtiden"
+        },
+        {
+            "questionID": "Q21",
+            "text": "Jeg føler mig ensom"
+        },
+        {
+            "questionID": "Q22",
+            "text": "Jeg får åndenød af at tale"
+        },
+        {
+            "questionID": "Q23",
+            "text": "Jeg bliver meget udmattet af at have besøg"
+        },
+        {
+            "questionID": "Q24",
+            "text": "Jeg hoster meget"
+        },
+        {
+            "questionID": "Q25",
+            "text": "Jeg har ofte slim i luftvejene"
+        },
+        {
+            "questionID": "Q26",
+            "text": "Jeg undgår situationer, hvor jeg kan blive pinligt berørt af min åndenød"
+        },
+        {
+            "questionID": "Q27",
+            "text": "Jeg føler mig godt tilpas hos mine venner/bekendte"
+        },
+        {
+            "questionID": "Q28",
+            "text": "Jeg er bange for at få et anfald af åndenød"
+        },
+        {
+            "questionID": "Q29",
+            "text": "Jeg får åndenød af fysisk aktivitet"
+        },
+        {
+            "questionID": "Q30",
+            "text": "Jeg bliver irriteret over de fysiske begrænsninger, min sygdom sætter"
+        },
+        {
+            "questionID": "Q31",
+            "text": "Mit ægteskab/parforhold lider under min sygdom"
+        },
+        {
+            "questionID": "Q32",
+            "text": "Jeg kan gå ud at købe ind"
+        },
+        {
+            "questionID": "Q33",
+            "text": "Jeg kan gå til alle de fritidsinteresser, som interesserer mig"
+        },
+        {
+            "questionID": "Q34",
+            "text": "Jeg føler mig ofte irritabel"
+        },
+        {
+            "questionID": "Q35",
+            "text": "Min kontakt til venner/bekendte er begrænset af min sygdom"
+        },
+        {
+            "questionID": "Q36",
+            "text": "Jeg er glad for mit liv"
+        },
+        {
+            "questionID": "Q37",
+            "text": "Jeg kan deltage i sociale arrangementer"
+        },
+        {
+            "questionID": "Q38",
+            "text": "Jeg er ofte ked af det"
+        },
+        {
+            "questionID": "Q39",
+            "text": "Mit åndedrætsbesvær generer mig i offentlige sammenhænge"
+        },
+        {
+            "questionID": "Q40",
+            "text": "Jeg er ofte nervøs"
+        },
+        {
+            "questionID": "Q41",
+            "text": "Jeg kan selv klæde mig på"
+        },
+        {
+            "questionID": "Q42",
+            "text": "Jeg er træt i løbet af dagen"
+        },
+        {
+            "questionID": "Q43",
+            "text": "Jeg føler mig isoleret"
+        },
+        {
+            "questionID": "Q44",
+            "text": "Jeg lever godt med min sygdom"
+        },
+        {
+            "questionID": "Q45",
+            "text": "Mit åndedrætsbesvær hæmmer mig i at foretage dagligdags gøremål"
+        },
+        {
+            "questionID": "Q46",
+            "text": "Mit familieliv er belastet af min sygdom"
+        },
+        {
+            "questionID": "Q47",
+            "text": "Jeg har afbrudt kontakten til andre mennesker som følge af mit åndedrætsbesvær"
+        },
+        {
+            "questionID": "Q48",
+            "text": "Mine fritidsmuligheder er begrænsede"
+        },
+        {
+            "questionID": "Q49",
+            "text": "Jeg er generelt tilfreds med mit liv"
+        }
+    ]
+}

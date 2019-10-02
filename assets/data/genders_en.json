@@ -1,0 +1,21 @@
+{
+  "genders": [
+    {
+      "keyword": "Male",
+      "id": 1,
+      "autocompleteTerm": "Male",
+      "symbol": "male.png"
+    },
+    {
+      "keyword": "Female",
+      "id": 2,
+      "autocompleteTerm": "Female",
+      "symbol": "female.png"
+    },
+    {
+      "keyword": "Other",
+      "id": 3,
+      "autocompleteTerm": "Other"
+    }
+  ]
+}

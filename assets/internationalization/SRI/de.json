@@ -1,0 +1,264 @@
+{
+    "type": "SRI",
+    "language": "de",
+    "texts": [
+        {
+            "textID": "COVER_LOGO_HEADER",
+            "text": "Severe Respiratory Insufficiency Questionnaire"
+        },
+        {
+            "textID": "COVER_LOGO_TITLE",
+            "text": "SRI"
+        },
+        {
+            "textID": "COVER_LOGO_SUBTITLE",
+            "text": "Patienten-Fragebogen zur Befindlichkeit bei Schwerer Respiratorischer Insuffizienz"
+        },
+        {
+            "textID": "COVER_ADDRESS",
+            "text": "Liebe Patientin, lieber Patient"
+        },
+        {
+            "textID": "COVER_INTRODUCTION",
+            "text": "Sie sind wegen Ihrer Atemstörung bei uns in Behandlung. Zur Beurteilung Ihrer aktuellen Befindlichkeit bitten wir Sie, den vorliegenden Fragebogen zu beantworten. Bitte beantworten Sie jede Frage, indem Sie die zutreffende Antwort mit nur einem Kreuz markieren. Die Beantwortung ist selbstverständlich freiwillig. Alle Daten unterliegen der ärztlichen Schweigepflicht und werden streng vertraulich behandelt. Für eventuelle Rückfragen steht Ihnen Ihr Stationsarzt zur Verfügung."
+        },
+        {
+            "textID": "COVER_CODE_LABEL",
+            "text": "Code Nummer"
+        },
+        {
+            "textID": "COPYRIGHT",
+            "text": "© W. Windisch, Kliniken Köln"
+        },
+        {
+            "textID": "TABLE_INTRODUCTION",
+            "text": "Im folgenden geht es um Ihr Allgemeinbefinden. Sie finden Aussagen zu verschiedenen Aspekten des täglichen Lebens."
+        },
+        {
+            "textID": "SURVEY_HEADER_INTRODUCTION",
+            "text": "Wie erging es Ihnen in der letzten Woche? Bitte kreuzen Sie bei JEDER Aussage die Antwort an, die auf Sie persönlich am besten zutrifft."
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOWEST",
+            "text": "trifft gar nicht zu"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_LOW",
+            "text": "trifft wenig zu"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_MID",
+            "text": "trifft teils-teils zu"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGH",
+            "text": "trifft ziemlich zu"
+        },
+        {
+            "textID": "SURVEY_HEADER_VALUE_HIGHEST",
+            "text": "trifft völlig zu"
+        },
+        {
+            "textID": "SURVEY_THANK_YOU",
+            "text": "Vielen Dank"
+        }
+    ],
+    "questions": [
+        {
+            "questionID": "Q1",
+            "text": "Treppensteigen fällt mir schwer"
+        },
+        {
+            "questionID": "Q2",
+            "text": "Ich habe beim Essen Luftnot"
+        },
+        {
+            "questionID": "Q3",
+            "text": "Ich kann abends ausgehen"
+        },
+        {
+            "questionID": "Q4",
+            "text": "Mir ist oft elend zumute"
+        },
+        {
+            "questionID": "Q5",
+            "text": "Auch ohne körperliche Anstrengungen habe ich Luftnot"
+        },
+        {
+            "questionID": "Q6",
+            "text": "Ich habe häufig Kopfschmerzen"
+        },
+        {
+            "questionID": "Q7",
+            "text": "Ich habe viele Freunde und Bekannte"
+        },
+        {
+            "questionID": "Q8",
+            "text": "Ich mache mir Sorgen, dass sich meine Krankheit verschlimmert"
+        },
+        {
+            "questionID": "Q9",
+            "text": "Ich kann gut einschlafen"
+        },
+        {
+            "questionID": "Q10",
+            "text": "Ich kann gut mit anderen Menschen umgehen"
+        },
+        {
+            "questionID": "Q11",
+            "text": "Mir ist manchmal schwindelig"
+        },
+        {
+            "questionID": "Q12",
+            "text": "Ich wache nachts mit Luftnot auf"
+        },
+        {
+            "questionID": "Q13",
+            "text": "Ich habe Angst vor nächtlicher Atemnot"
+        },
+        {
+            "questionID": "Q14",
+            "text": "Ich habe häufig Nackenschmerzen"
+        },
+        {
+            "questionID": "Q15",
+            "text": "Ich bin stark an zu Hause gebunden"
+        },
+        {
+            "questionID": "Q16",
+            "text": "Hausarbeiten fallen mir schwer"
+        },
+        {
+            "questionID": "Q17",
+            "text": "Nachts wache ich oft auf"
+        },
+        {
+            "questionID": "Q18",
+            "text": "Ich kann gut durchschlafen"
+        },
+        {
+            "questionID": "Q19",
+            "text": "Ich bin oft kurzatmig"
+        },
+        {
+            "questionID": "Q20",
+            "text": "Ich sehe der Zukunft positiv entgegen"
+        },
+        {
+            "questionID": "Q21",
+            "text": "Ich habe das Gefühl, einsam zu sein"
+        },
+        {
+            "questionID": "Q22",
+            "text": "Ich habe beim Sprechen Atemnot"
+        },
+        {
+            "questionID": "Q23",
+            "text": "Besuch strengt mich sehr an"
+        },
+        {
+            "questionID": "Q24",
+            "text": "Ich huste viel"
+        },
+        {
+            "questionID": "Q25",
+            "text": "Meine Atemwege sind häufig verschleimt"
+        },
+        {
+            "questionID": "Q26",
+            "text": "Ich vermeide Situationen, in denen ich mich wegen meiner Atembeschwerden blamieren könnte"
+        },
+        {
+            "questionID": "Q27",
+            "text": "Ich fühle mich bei meinen Freunden/Bekannten wohl"
+        },
+        {
+            "questionID": "Q28",
+            "text": "Ich habe Angst vor einer Luftnotattacke"
+        },
+        {
+            "questionID": "Q29",
+            "text": "Ich habe Atemnot bei körperlicher Belastung"
+        },
+        {
+            "questionID": "Q30",
+            "text": "Ich bin von den Einschränkungen durch meine Krankheit genervt"
+        },
+        {
+            "questionID": "Q31",
+            "text": "Meine Ehe/Partnerschaft leidet unter meiner Krankheit"
+        },
+        {
+            "questionID": "Q32",
+            "text": "Ich kann einkaufen gehen"
+        },
+        {
+            "questionID": "Q33",
+            "text": "Ich kann allen Hobbys nachgehen, die mich interessieren"
+        },
+        {
+            "questionID": "Q34",
+            "text": "Ich fühle mich oft gereizt"
+        },
+        {
+            "questionID": "Q35",
+            "text": "Wegen meiner Krankheit ist der Kontakt zu Freunden/Bekannten eingeschränkt"
+        },
+        {
+            "questionID": "Q36",
+            "text": "Ich freue mich über mein Leben"
+        },
+        {
+            "questionID": "Q37",
+            "text": "An geselligen Veranstaltungen kann ich teilnehmen"
+        },
+        {
+            "questionID": "Q38",
+            "text": "Ich bin häufig traurig"
+        },
+        {
+            "questionID": "Q39",
+            "text": "Meine Atembeschwerden stören mich in der Öffentlichkeit"
+        },
+        {
+            "questionID": "Q40",
+            "text": "Ich bin oft nervös"
+        },
+        {
+            "questionID": "Q41",
+            "text": "Ich kann mich alleine anziehen"
+        },
+        {
+            "questionID": "Q42",
+            "text": "Ich bin tagsüber müde"
+        },
+        {
+            "questionID": "Q43",
+            "text": "Ich fühle mich isoliert"
+        },
+        {
+            "questionID": "Q44",
+            "text": "Ich komme gut mit meiner Krankheit zurecht"
+        },
+        {
+            "questionID": "Q45",
+            "text": "Meine Atembeschwerden behindern mich bei normalen Alltagsanforderungen"
+        },
+        {
+            "questionID": "Q46",
+            "text": "Mein Familienleben ist durch die Krankheit belastet"
+        },
+        {
+            "questionID": "Q47",
+            "text": "Wegen meiner Atembeschwerden habe ich den Kontakt zu anderen Menschen abgebrochen"
+        },
+        {
+            "questionID": "Q48",
+            "text": "Meine Freizeitmöglichkeiten sind eingeschränkt"
+        },
+        {
+            "questionID": "Q49",
+            "text": "Ich bin mit meinem Leben im Allgemeinen zufrieden"
+        }
+    ]
+}
